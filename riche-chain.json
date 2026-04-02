@@ -1,6 +1,6 @@
 {
   "name": "recehDEX",
-  "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/WRIC.png",
+  "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/WRIC.png",
   "keywords": [
     "compound",
     "defi"
@@ -13,7 +13,7 @@
       "name": "RECEH",
       "symbol": "RECEH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/RECEH.png"
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/RECEH.png"
     },
     {
       "chainId": 132026,
@@ -21,7 +21,7 @@
       "name": "Riche USD",
       "symbol": "USDr",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/USDR.png"
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDR.png"
     },
     {
       "chainId": 132026,
@@ -29,7 +29,7 @@
       "name": "MICIN",
       "symbol": "MICIN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/MICIN.png"
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/MICIN.png"
     },
     {
       "chainId": 132026,
@@ -37,7 +37,7 @@
       "name": "MyToken",
       "symbol": "MTK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/MTK.png"
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/MTK.png"
     }
   ],
   "version": {
