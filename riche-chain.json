@@ -1,0 +1,48 @@
+{
+  "name": "recehDEX",
+  "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/WRIC.png",
+  "keywords": [
+    "compound",
+    "defi"
+  ],
+  "timestamp": "2026-02-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 132026,
+      "address": "0x4c9C431Fa7fD104c0E7230d20E1623E62019A1C5",
+      "name": "RECEH",
+      "symbol": "RECEH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/RECEH.png"
+    },
+    {
+      "chainId": 132026,
+      "address": "0x6dC1bC519a8c861d509351763a6f9aBb6B07b57B",
+      "name": "Riche USD",
+      "symbol": "USDr",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/USDR.png"
+    },
+    {
+      "chainId": 132026,
+      "address": "0x58f7d57Bf68A469011598594A860f659B2780c50",
+      "name": "MICIN",
+      "symbol": "MICIN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/MICIN.png"
+    },
+    {
+      "chainId": 132026,
+      "address": "0xD61FaD05A6F10C0Ea678E6339E8fBb07dEC21C25",
+      "name": "MyToken",
+      "symbol": "MTK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/MTK.png"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
