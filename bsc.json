@@ -13,7 +13,7 @@
       "name": "RECEH",
       "symbol": "RECEH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/RECEH.png"
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/RECEH.png"
     },
     {
       "chainId": 56,
@@ -21,7 +21,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/USDT.png"
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDT.png"
     },
     {
       "chainId": 56,
@@ -29,7 +29,7 @@
       "name": "Danacoin",
       "symbol": "DANA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/DANA.png"
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/DANA.png"
     },
     {
       "chainId": 56,
@@ -37,7 +37,7 @@
       "name": "Nusantara",
       "symbol": "NUSA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/NUSA.png"
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/NUSA.png"
     }
   ],
   "version": {
