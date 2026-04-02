@@ -1,0 +1,48 @@
+{
+  "name": "recehDEX",
+  "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/WBNB.png",
+  "keywords": [
+    "compound",
+    "defi"
+  ],
+  "timestamp": "2026-02-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x4c9C431Fa7fD104c0E7230d20E1623E62019A1C5",
+      "name": "RECEH",
+      "symbol": "RECEH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/RECEH.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/USDT.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x803658218208e9254A42bC62703EC3833c94690d",
+      "name": "Danacoin",
+      "symbol": "DANA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/DANA.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0x7d49eB99c4AE35d5E1E998016104c6781BFA129d",
+      "name": "Nusantara",
+      "symbol": "NUSA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/NUSA.png"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
