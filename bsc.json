@@ -22,22 +22,6 @@
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDT.png"
-    },
-    {
-      "chainId": 56,
-      "address": "0x803658218208e9254A42bC62703EC3833c94690d",
-      "name": "Danacoin",
-      "symbol": "DANA",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/DANA.png"
-    },
-    {
-      "chainId": 56,
-      "address": "0x7d49eB99c4AE35d5E1E998016104c6781BFA129d",
-      "name": "Nusantara",
-      "symbol": "NUSA",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/NUSA.png"
     }
   ],
   "version": {
