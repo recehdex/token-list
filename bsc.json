@@ -22,6 +22,14 @@
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDT.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xc55d416476CFC6e879948eD5a5F4461c43Af45Aa",
+      "name": "Megah Digital Asset",
+      "symbol": "MEGAH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/MEGAH.png"
     }
   ],
   "version": {
