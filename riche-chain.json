@@ -25,19 +25,11 @@
     },
     {
       "chainId": 132026,
-      "address": "0x58f7d57Bf68A469011598594A860f659B2780c50",
-      "name": "MICIN",
-      "symbol": "MICIN",
+      "address": "0x9E0c4FF6264695957C3a066ef6F4c866fEa89418",
+      "name": "megahcrypto.com",
+      "symbol": "MEGAH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/MICIN.png"
-    },
-    {
-      "chainId": 132026,
-      "address": "0xD61FaD05A6F10C0Ea678E6339E8fBb07dEC21C25",
-      "name": "MyToken",
-      "symbol": "MTK",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/MTK.png"
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/MEGAH.png"
     }
   ],
   "version": {
