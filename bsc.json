@@ -25,6 +25,14 @@
     },
     {
       "chainId": 56,
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDC.png"
+    },
+    {
+      "chainId": 56,
       "address": "0xc55d416476CFC6e879948eD5a5F4461c43Af45Aa",
       "name": "Megah Digital Asset",
       "symbol": "MEGAH",
