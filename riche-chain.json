@@ -30,6 +30,14 @@
       "symbol": "MEGAH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/MEGAH.png"
+    },
+    {
+      "chainId": 132026,
+      "address": "0x2c0D22544a8f6551e695426DA5d58Fbf95864ae5",
+      "name": "Bintang",
+      "symbol": "BTG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/stakingtoken/stakingtoken.github.io/refs/heads/main/images/btg.png"
     }
   ],
   "version": {
