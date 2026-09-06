@@ -17,6 +17,14 @@
     },
     {
       "chainId": 56,
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/images/refs/heads/main/WBNB.png"
+    },
+    {
+      "chainId": 56,
       "address": "0x55d398326f99059fF775485246999027B3197955",
       "name": "Tether USD",
       "symbol": "USDT",
