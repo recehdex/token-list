@@ -1,6 +1,6 @@
 {
   "name": "recehDEX",
-  "logoURI": "https://raw.githubusercontent.com/cryptorecehcom/receh-dex/refs/heads/main/tokenlogo/WBNB.png",
+  "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/WBNB.webp",
   "keywords": [
     "compound",
     "defi"
@@ -13,7 +13,7 @@
       "name": "RECEH",
       "symbol": "RECEH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/recehdex/images/refs/heads/main/receh-logo-100x100.png"
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/RECEH.webp"
     },
     {
       "chainId": 56,
@@ -21,7 +21,7 @@
       "name": "Wrapped BNB",
       "symbol": "WBNB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/recehdex/images/refs/heads/main/WBNB.png"
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/WBNB.webp"
     },
     {
       "chainId": 56,
@@ -29,7 +29,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDT.png"
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDT.webp"
     },
     {
       "chainId": 56,
@@ -37,7 +37,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDC.png"
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDT.webp"
     },
     {
       "chainId": 56,
@@ -45,7 +45,7 @@
       "name": "Megah Digital Asset",
       "symbol": "MEGAH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/MEGAH.png"
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/MEGAH.webp"
     }
   ],
   "version": {
