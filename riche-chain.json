@@ -38,14 +38,6 @@
       "symbol": "GETAR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/GETAR.webp"
-    },
-    {
-      "chainId": 132026,
-      "address": "0xBF10bB1D1CA20f42843fe8BfbbE775789b468332",
-      "name": "Receh Bridged USDC",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDC.webp"
     }
   ],
   "version": {
