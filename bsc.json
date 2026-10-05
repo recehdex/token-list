@@ -54,6 +54,14 @@
       "symbol": "GETAR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/GETAR.webp"
+    },
+    {
+      "chainId": 56,
+      "address": "0xE60974C4937370Cb4E762FD2B5DeDe889D6c3785",
+      "name": "Receh IDR",
+      "symbol": "IDRR",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/IDRR.webp"
     }
   ],
   "version": {
