@@ -25,6 +25,14 @@
     },
     {
       "chainId": 132026,
+      "address": "0xc8d3bd3b0519508ee977a84bFDab77920177841f",
+      "name": "IDRR",
+      "symbol": "IDRR",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/IDRR.webp"
+    },
+    {
+      "chainId": 132026,
       "address": "0x6dC1bC519a8c861d509351763a6f9aBb6B07b57B",
       "name": "Riche USD",
       "symbol": "USDr",
@@ -46,14 +54,6 @@
       "symbol": "GETAR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/GETAR.webp"
-    },
-    {
-      "chainId": 132026,
-      "address": "0xc8d3bd3b0519508ee977a84bFDab77920177841f",
-      "name": "IDRR",
-      "symbol": "IDRR",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/IDRR.webp"
     }
   ],
   "version": {
