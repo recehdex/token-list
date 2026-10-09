@@ -17,11 +17,19 @@
     },
     {
       "chainId": 132026,
+      "address": "0x77D3C50C355Adb3013E115AC4697613507796750",
+      "name": "Bridged USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDT.webp"
+    },
+    {
+      "chainId": 132026,
       "address": "0x6dC1bC519a8c861d509351763a6f9aBb6B07b57B",
       "name": "Riche USD",
       "symbol": "USDr",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDT.webp"
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDr.webp"
     },
     {
       "chainId": 132026,
