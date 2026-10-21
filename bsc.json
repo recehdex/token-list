@@ -41,6 +41,14 @@
     },
     {
       "chainId": 56,
+      "address": "0x857c5e91238aA9E4849A93C046dD87Aa8b4A1128",
+      "name": "SURNUS",
+      "symbol": "SURNUS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/SURNUS.webp"
+    },
+    {
+      "chainId": 56,
       "address": "0xc55d416476CFC6e879948eD5a5F4461c43Af45Aa",
       "name": "Megah Digital Asset",
       "symbol": "MEGAH",
