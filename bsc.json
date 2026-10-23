@@ -49,6 +49,14 @@
     },
     {
       "chainId": 56,
+      "address": "0x0C16fb5291B0c3306D79665514B02708e59A6151",
+      "name": "Symbium",
+      "symbol": "SYMB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/SYMB.webp"
+    },
+    {
+      "chainId": 56,
       "address": "0xc55d416476CFC6e879948eD5a5F4461c43Af45Aa",
       "name": "Megah Digital Asset",
       "symbol": "MEGAH",
