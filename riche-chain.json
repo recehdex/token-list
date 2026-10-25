@@ -21,7 +21,7 @@
       "name": "Bridged USDT",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDT.webp"
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDTB.webp"
     },
     {
       "chainId": 132026,
