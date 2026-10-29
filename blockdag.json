@@ -22,6 +22,14 @@
       "symbol": "RECEH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/RECEH.webp"
+    },
+    {
+      "chainId": 1404,
+      "address": "0xc8d3bd3b0519508ee977a84bFDab77920177841f",
+      "name": "Bridged IDRR",
+      "symbol": "IDRR",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/IDRR.webp"
     }
   ],
   "version": {
