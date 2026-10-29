@@ -14,6 +14,14 @@
       "symbol": "WBDAG",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/WBDAG.webp"
+    },
+    {
+      "chainId": 1404,
+      "address": "0x6656A93328Fd7a06c0947b4b91f82A5413FeD6AA",
+      "name": "Symbium",
+      "symbol": "SYMB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/SYMB.webp"
     }
   ],
   "version": {
