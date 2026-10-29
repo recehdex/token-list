@@ -17,6 +17,14 @@
     },
     {
       "chainId": 1404,
+      "address": "0x4c9C431Fa7fD104c0E7230d20E1623E62019A1C5",
+      "name": "RECEH",
+      "symbol": "RECEH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/RECEH.webp"
+    },
+    {
+      "chainId": 1404,
       "address": "0x6656A93328Fd7a06c0947b4b91f82A5413FeD6AA",
       "name": "Symbium",
       "symbol": "SYMB",
