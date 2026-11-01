@@ -33,14 +33,6 @@
     },
     {
       "chainId": 132026,
-      "address": "0x6dC1bC519a8c861d509351763a6f9aBb6B07b57B",
-      "name": "Riche USD",
-      "symbol": "USDr",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDr.webp"
-    },
-    {
-      "chainId": 132026,
       "address": "0x9E0c4FF6264695957C3a066ef6F4c866fEa89418",
       "name": "megahcrypto.com",
       "symbol": "MEGAH",
