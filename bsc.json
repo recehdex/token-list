@@ -78,6 +78,14 @@
       "symbol": "IDRR",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/IDRR.webp"
+    },
+    {
+      "chainId": 56,
+      "address": "0xCD784104B970F6a8602F377A95b3Ec08659d69f3",
+      "name": "LaunchToken",
+      "symbol": "LTK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/LTK.webp"
     }
   ],
   "version": {
