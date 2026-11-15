@@ -46,6 +46,14 @@
       "symbol": "GETAR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/GETAR.webp"
+    },
+    {
+      "chainId": 132026,
+      "address": "0x06d41a9F9f7cD45BaD56b1B2503889D574000000",
+      "name": "Micincoin",
+      "symbol": "MICIN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/MICIN.webp"
     }
   ],
   "version": {
