@@ -54,6 +54,14 @@
       "symbol": "MICIN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/MICIN.webp"
+    },
+    {
+      "chainId": 132026,
+      "address": "0xab35b1443B40A5fbF94236DbeDF60bfd87777777",
+      "name": "Seven",
+      "symbol": "SEVEN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/SEVEN.webp"
     }
   ],
   "version": {
