@@ -62,6 +62,14 @@
       "symbol": "SEVEN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/SEVEN.webp"
+    },
+    {
+      "chainId": 132026,
+      "address": "0x1a719B833334D195f90bDECc092AeA9388888888",
+      "name": "Hokicoin",
+      "symbol": "HOKI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/HOKI.webp"
     }
   ],
   "version": {
