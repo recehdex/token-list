@@ -33,14 +33,6 @@
     },
     {
       "chainId": 132026,
-      "address": "0x9E0c4FF6264695957C3a066ef6F4c866fEa89418",
-      "name": "megahcrypto.com",
-      "symbol": "MEGAH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/MEGAH.webp"
-    },
-    {
-      "chainId": 132026,
       "address": "0xE60974C4937370Cb4E762FD2B5DeDe889D6c3785",
       "name": "Bergetar",
       "symbol": "GETAR",
