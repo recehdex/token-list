@@ -86,6 +86,14 @@
       "symbol": "LTK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/LTK.webp"
+    },
+    {
+      "chainId": 56,
+      "address": "0x6cd3025F851F36e74937D4e652f6AE9D4b2E88cF",
+      "name": "Arkie",
+      "symbol": "ARKIE",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/41784.png"
     }
   ],
   "version": {
