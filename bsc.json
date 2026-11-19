@@ -89,6 +89,14 @@
     },
     {
       "chainId": 56,
+      "address": "0xD2712FA10A54E7477EEC38e7a322738A00000000",
+      "name": "Micin",
+      "symbol": "MICIN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/MICIN.webp"
+    },
+    {
+      "chainId": 56,
       "address": "0x6cd3025F851F36e74937D4e652f6AE9D4b2E88cF",
       "name": "Arkie",
       "symbol": "ARKIE",
