@@ -1,0 +1,40 @@
+{
+  "name": "recehDEX",
+  "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/CORE.webp",
+  "keywords": [
+    "compound",
+    "defi"
+  ],
+  "timestamp": "2026-02-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1116,
+      "address": "0x4c9C431Fa7fD104c0E7230d20E1623E62019A1C5",
+      "name": "RECEH",
+      "symbol": "RECEH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/RECEH.webp"
+    },
+    {
+      "chainId": 1116,
+      "address": "0x900101d06a7426441ae63e9ab3b9b0f63be145f1",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDT.webp"
+    },
+    {
+      "chainId": 1116,
+      "address": "0xa4151b2b3e269645181dccf2d426ce75fcbdeca9",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/USDC.webp"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
