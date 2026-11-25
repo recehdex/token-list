@@ -97,6 +97,14 @@
     },
     {
       "chainId": 56,
+      "address": "0x7305A3864BBC0a4e9B4145a5ab8ca13988888888",
+      "name": "Hoki",
+      "symbol": "HOKI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/recehdex/token-logo/refs/heads/main/HOKI.webp"
+    },
+    {
+      "chainId": 56,
       "address": "0x6cd3025F851F36e74937D4e652f6AE9D4b2E88cF",
       "name": "Arkie",
       "symbol": "ARKIE",
